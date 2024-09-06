@@ -34,39 +34,5 @@ Uma aplicação simples para você descobrir mais sobre seus atletas brasileiros
 Este projeto está licenciado sob a licença [MIT/Apache/etc] - consulte o arquivo LICENSE para mais detalhes.
 
 ### Autores:
-* **[Seu nome]** - Desenvolvedor principal
-* **[Outros colaboradores]** - Contribuidores
-
-**[Seu link para o LinkedIn]**
-**[Seu portfólio]**
-
----
-
-**O que essa nova versão oferece:**
-
-* **Mais detalhes:** Explicações mais claras sobre o funcionamento da aplicação e as tecnologias utilizadas.
-* **Estrutura:** Organização clara dos arquivos e seções.
-* **Contribuição:** Guia passo a passo para que outros desenvolvedores possam contribuir.
-* **Próximos passos:** Definição de objetivos futuros para a aplicação.
-* **Licença:** Informação sobre a licença do projeto.
-* **Autores:** Créditos aos desenvolvedores.
-* **Formatação:** Utilização de Markdown para destacar títulos, listas e código.
-
-**Personalize este README.md:**
-
-* **Substitua os placeholders:** Preencha as informações entre colchetes com os seus dados.
-* **Adicione seções:** Inclua seções como "Instalação", "FAQ" ou "Agradecimentos".
-* **Utilize emojis:** Adicione emojis para deixar o README mais divertido e visual.
-* **Insira imagens:** Use o Markdown para inserir imagens dos seus projetos.
-
-**Com este README.md mais completo, você poderá atrair mais colaboradores e mostrar o seu projeto de forma profissional.**
-
-**Gostaria de adicionar mais alguma coisa?**
-
-**Outras sugestões:**
-* **Badge:** Adicione um badge para indicar a licença do projeto.
-* **GIF:** Crie um GIF animado demonstrando a aplicação.
-* **Estatísticas:** Mostre algumas estatísticas sobre a aplicação, como número de atletas, pesquisas realizadas, etc.
-* **Agradecimentos:** Agradeça a quem te ajudou no desenvolvimento da aplicação.
-
-**Lembre-se:** Um bom README.md é fundamental para o sucesso de qualquer projeto no GitHub!
+* **[Elison Melo]** - Desenvolvedor principal
+* **[Professores alura: Rafaella Ballerini, Guilherme Lima, Luciano Martins]** - Contribuidores
