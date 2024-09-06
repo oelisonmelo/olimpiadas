@@ -1,4 +1,4 @@
-## Descubra os Atletas Brasileiros que Inspiram! 
+## Descubra os Atletas Brasileiros que Inspiram! Imersão Alura com google Gemini
 
 Uma aplicação simples para você descobrir mais sobre seus atletas brasileiros favoritos. 🇧🇷
 
